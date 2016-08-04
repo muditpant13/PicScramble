@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pic Scramble</string>
+    <string name="feed_not_loaded">Feed cannot be loaded. The app cannot be started</string>
+</resources>
